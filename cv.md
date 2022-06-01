@@ -1,4 +1,5 @@
-# _Novikova Volha_ #
+# _Novikova Volha_  
+![myPhoto](myphoto.jpg)
 
 - - -
 
@@ -31,9 +32,8 @@ Previously, I studied layout on my own, realized that I wanted to do web develop
 ### _Code example:_ ###
 
 ```
-function sum(a, b) {  
-  sum = a + b;  
-  console.log(sum);
+function multiply(a, b){
+  return a * b
 }
 ```
 
